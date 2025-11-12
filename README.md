@@ -60,7 +60,4 @@ Built with Python 3
 To my future self i hope you read this 
 ``` bash
 [dont read me.txt](https://github.com/user-attachments/files/23505574/dont.read.me.txt)
-Testing all the choices and possible endings is very draining. I often felt like I was losing my patience, and sometimes I spaced out trying to figure out what went wrong or how to fix it. I also ran into problems like figuring out how to give each boss or NPC a different storyline so it wouldn’t repeat over and over. I asked AI for help, but I still had to read everything carefully, understand the logic, and figure out how it worked. I don’t fully understand everything yet, but I know how it functions.
-
-That’s all. Thank you.g dont read me.txt…]()
 
