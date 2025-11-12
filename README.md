@@ -29,11 +29,11 @@
 Navigate the RUINS, encountering NPCs, monsters, and puzzles
 Dialogue choices affect stats:
 
--❤️ HP
--😰 Stress
--🌫️ Anxiety
--💀 Self-Sabotage
--🌱 Self-Worth
+- ❤️ HP
+- 😰 Stress
+- 🌫️ Anxiety
+- 💀 Self-Sabotage
+- 🌱 Self-Worth
 
 Build relationships with NPCs like Luma, Sage, and Eon
 Solve puzzles to advance and unlock multiple endings: Good, Neutral, or Bad
