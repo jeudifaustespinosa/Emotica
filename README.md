@@ -59,5 +59,5 @@ Built with Python 3
 
 To my future self i hope you read this 
 ``` bash
-[dont read me.txt](https://github.com/user-attachments/files/23505574/dont.read.me.txt)
+https://github.com/user-attachments/files/23505574/dont.read.me.txt
 
