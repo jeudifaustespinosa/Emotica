@@ -5,30 +5,6 @@ from bosses import boss_puzzle, mirror_of_doubt_intro, clock_of_pressure_intro, 
 from story import cinematic_intro, mother_battle, journey_before_bosses, outside_journey
 from endings import determine_ending, ending_scene
 
-
-
-
-# PLAYER CLASS
-
-# NPC SYSTEM
-
-
-
-# BOSS PUZZLES
-
-
-
-
-
-# CINEMATIC INTRO
-
-
-# MOTHER BATTLE & DINNER SCENES
-
-
-
-# ENDINGS
-# MAIN FLOW
 def main():
     slowprint("✨ Welcome to EMOTICA ✨")
     name = input("What is your name, dreamer? > ").strip() or "Wanderer"
@@ -42,3 +18,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
