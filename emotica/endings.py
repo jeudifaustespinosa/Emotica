@@ -39,10 +39,8 @@ def ending_scene(result, player):
     slowprint("\nThank you for playing *EMOTICA*. Remember: every ending is part of your story. Healing takes time, and every step forward matters.")
     slowprint("Reach out if this story resonated. You deserve light, even in the darkest moments.")
 def determine_ending(player, battle_result):
-    """
-    Determines which ending the player gets based on stats and choices.
-    Returns: "good", "neutral", or "bad"
-    """
+
+    #Determines which ending the player gets based on stats and choices. Returns: "good", "neutral", or "bad"
     # If player stayed with Mother or high self_worth -> good
     if battle_result == "stay" or player.self_worth >= 7:
         return "good"
@@ -52,4 +50,5 @@ def determine_ending(player, battle_result):
     # If player was defeated or low stats -> bad
     else:
         return "bad"
+
 
