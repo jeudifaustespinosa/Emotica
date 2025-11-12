@@ -2,7 +2,7 @@ import sys
 import time
 import textwrap
 
-def slow_print(text, delay=0.01, width=70):
+def slow_print(text, delay=0.03, width=70):
     wrapped_text = textwrap.fill(text, width=width)  # wrap lines at `width`
     for line in wrapped_text.split('\n'):
         for char in line:
@@ -13,7 +13,7 @@ def slow_print(text, delay=0.01, width=70):
 def wait():
     input("\n(Press Enter to continue...)\n")
     
-def slowprint(text, delay=0.01):
+def slowprint(text, delay=0.03):
     for c in text:
         sys.stdout.write(c)
         sys.stdout.flush()
@@ -32,3 +32,4 @@ def prompt(options):
 
 def clamp(v, lo, hi): 
     return max(lo, min(v, hi))
+
