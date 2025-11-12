@@ -29,31 +29,31 @@
 Navigate the RUINS, encountering NPCs, monsters, and puzzles
 Dialogue choices affect stats:
 
-❤️ HP
-😰 Stress
-🌫️ Anxiety
-💀 Self-Sabotage
-🌱 Self-Worth
+-❤️ HP
+-😰 Stress
+-🌫️ Anxiety
+-💀 Self-Sabotage
+-🌱 Self-Worth
 
 Build relationships with NPCs like Luma, Sage, and Eon
 Solve puzzles to advance and unlock multiple endings: Good, Neutral, or Bad
 Keep a journal reflecting your journey
 
 # Modules
-texthelper.py – Utility functions: slowprint, slow_print, wait, prompt, clamp
-bosses.py – Boss puzzle mechanics and intro sequences
-characters.py – NPC interaction logic
-emotica.py – Main game file integrating all modules
+- texthelper.py – Utility functions: slowprint, slow_print, wait, prompt, clamp
+- bosses.py – Boss puzzle mechanics and intro sequences
+- characters.py – NPC interaction logic
+- emotica.py – Main game file integrating all modules
 
 # Controls
-Enter – Proceed through text/dialogue
-Number keys – Select dialogue or action choices
+- Enter – Proceed through text/dialogue
+- Number keys – Select dialogue or action choices
 
 # Development
 Built with Python 3
-Modular structure for readability and maintainability
-Planned features:
-Additional NPCs and branching dialogue
-Expanded puzzle mechanics
-Optional graphical interface in future versions
+- Modular structure for readability and maintainability
+- Planned features:
+- Additional NPCs and branching dialogue
+- Expanded puzzle mechanics
+- Optional graphical interface in future versions
 
