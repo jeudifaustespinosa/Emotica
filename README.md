@@ -13,11 +13,47 @@
 
 ---
 
-## 💾 Installation
+## 💾 Installation 
 1. Ensure **Python 3.10+** is installed.  
 2. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/emotica.git
 3. Navigate to the project folder:
-   cd emotica
+   ```bash
+   cd cd emotica
+4. Run the game:
+   ```bash
+   emotica.py
+
+# Gameplay
+Navigate the RUINS, encountering NPCs, monsters, and puzzles
+Dialogue choices affect stats:
+
+❤️ HP
+😰 Stress
+🌫️ Anxiety
+💀 Self-Sabotage
+🌱 Self-Worth
+
+Build relationships with NPCs like Luma, Sage, and Eon
+Solve puzzles to advance and unlock multiple endings: Good, Neutral, or Bad
+Keep a journal reflecting your journey
+
+# Modules
+texthelper.py – Utility functions: slowprint, slow_print, wait, prompt, clamp
+bosses.py – Boss puzzle mechanics and intro sequences
+characters.py – NPC interaction logic
+emotica.py – Main game file integrating all modules
+
+# Controls
+Enter – Proceed through text/dialogue
+Number keys – Select dialogue or action choices
+
+# Development
+Built with Python 3
+Modular structure for readability and maintainability
+Planned features:
+Additional NPCs and branching dialogue
+Expanded puzzle mechanics
+Optional graphical interface in future versions
 
