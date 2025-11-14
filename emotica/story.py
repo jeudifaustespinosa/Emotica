@@ -122,7 +122,7 @@ def cinematic_intro(player):
 
 
 
-# MOTHER BATTLE
+# MOTHER 
 
 def mother_battle(player):
     slowprint("\nOne day, you find a door. The Mother shockingly appears in the doorway, her tone shifting as she speaks.")
@@ -221,3 +221,4 @@ def outside_journey(player):
     player.show_stats()
     slowprint("\nYou stand alone, reflecting on the trials overcome and the strength gained.")
     wait()
+
