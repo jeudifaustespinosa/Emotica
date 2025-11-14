@@ -1,7 +1,6 @@
 # EMOTICA
 
-**EMOTICA** is an interactive narrative game about healing, self-discovery, and emotional growth. Players navigate a surreal world, interact with unique characters, and face puzzles and challenges reflecting internal struggles like anxiety, stress, and self-sabotage.
-
+**EMOTICA** is an interactive narrative game about healing, self-discovery, and emotional growth. Players navigate a surreal world, interact with unique characters, and face puzzles and challenges reflecting internal struggles like anxiety and stress
 ---
 
 ## 🌟 Features
